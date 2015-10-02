@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo>PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin</echo>
+  <echo>GEM_PATH=${env.GEM_PATH}</echo>
+  <echo>GEM_HOME=${env.GEM_HOME}</echo>
+  <echo>mirage2.deps.included=true</echo>
+  <echo>grunt.color.scheme=classic_mirage_color_scheme</echo>
+  <echo>grunt.environment=prod</echo>
+  <echo>source=/home/joseph/development/dspace/dspace-5.3-src-release/dspace/modules/xmlui-mirage2/src/main/webapp/themes/</echo>
+</target>
+</project>

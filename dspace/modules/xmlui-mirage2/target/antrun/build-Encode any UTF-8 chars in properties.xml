@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="Encode any UTF-8 chars in properties"  >
+<target name="Encode any UTF-8 chars in properties">
+  <native2ascii dest="/home/joseph/development/dspace/dspace-5.3-src-release/dspace/modules/xmlui-mirage2/../../../target" encoding="UTF8" src="/home/joseph/development/dspace/dspace-5.3-src-release/dspace/modules/xmlui-mirage2/../../.." includes="*.properties"/>
+</target>
+</project>
