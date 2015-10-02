@@ -139,7 +139,7 @@ public class EditProfileServlet extends DSpaceServlet
 
     /**
      * Set an eperson's password, if the passwords they typed match and are
-     * acceptible. If all goes well and the password is set, null is returned.
+     * acceptable. If all goes well and the password is set, null is returned.
      * Otherwise the problem is returned as a String.
      * 
      * @param eperson

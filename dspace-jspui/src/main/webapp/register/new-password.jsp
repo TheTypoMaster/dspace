@@ -17,7 +17,7 @@
   -    eperson          - the eperson
   -    token            - the token associated with this password setting
   -    password.problem - Boolean true if the user has already tried a password
-  -                       which is for some reason unnacceptible
+  -                       which is for some reason unnacceptable
   --%>
 
 <%@ page contentType="text/html;charset=UTF-8" %>
